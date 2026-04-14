@@ -1,0 +1,6 @@
+streamlit>=1.44
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+requests>=2.31
+rapidfuzz>=3.9
